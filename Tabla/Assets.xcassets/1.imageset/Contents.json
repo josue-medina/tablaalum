@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "nino-lindo-siente-feliz-porque-obtiene-buena-calificacion-examen_97632-4844.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
